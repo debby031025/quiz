@@ -134,4 +134,9 @@ public class QuizServiceTests {
 		Assert.isTrue(res.getStatusCode() == 200, "create test false!!");
 		// 刪除測試資料 TODO		
 	}
+	
+	@Test
+	public void updateTest() {
+		// TODO
+	}
 }
